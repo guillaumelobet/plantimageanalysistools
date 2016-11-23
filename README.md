@@ -3,7 +3,7 @@
 
 # Current state of plant image analysis tools
 
-This repository contains data about the plant image analysis tools presented on the [www.plant-image-analysis.org]() website.
+This repository contains data about the plant image analysis tools presented on the [www.plant-image-analysis.org](http://www.plant-image-analysis.org) website.
 
 ## Details about the data
 
@@ -14,6 +14,6 @@ This repository contains data about the plant image analysis tools presented on 
 
 ### In `pia_responses.xlsx`
 
-- Data are coming from a survey (available here: [https://goo.gl/forms/FAhYIGJYHVJPs9Nw2]()) send to the corresponding authors of the papers presenting the tools from the database. 
+- Data are coming from a survey (available here: [https://goo.gl/forms/FAhYIGJYHVJPs9Nw2](https://goo.gl/forms/FAhYIGJYHVJPs9Nw2)) send to the corresponding authors of the papers presenting the tools from the database. 
 
 
