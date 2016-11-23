@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.168216.svg)](https://doi.org/10.5281/zenodo.168216)
+
+
 # Current state of plant image analysis tools
 
 This repository contains data about the plant image analysis tools presented on the [www.plant-image-analysis.org]() website.
